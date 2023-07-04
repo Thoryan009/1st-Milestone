@@ -1,0 +1,20 @@
+
+div.container{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.myul{
+    display: inline-block;
+    color: blue;
+    margin: 10px;
+    padding: 10px;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.khabona{
+    ;
+    color: red;
+    background-color: black;
+    /* display: block;
+   margin: 10px; */ 
+}

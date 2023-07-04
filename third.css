@@ -1,0 +1,28 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+#do{
+    font-size: x-large;
+    color: red;
+    background-color: blueviolet;
+}
+
+.change{
+    color: cadetblue;
+    background-color: brown;
+    font-size: 20px;
+    
+}
+
+#f{
+    font-size: x-large;
+    display: block;
+    margin-left: 35px;
+}
+#g{
+    margin-right: 30px;
+    color:blueviolet ;
+    background-color: black;
+}

@@ -1,0 +1,13 @@
+.second{
+    color: rgb(17, 190, 55);
+   /* font-style: oblique; */
+    font-style: bold;
+
+}
+.third{
+    font-style: oblique;
+}
+.under{ 
+    font-size: larger;
+    font-style: normal;
+}

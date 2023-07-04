@@ -1,0 +1,31 @@
+*{
+    margin: 5px;
+}
+
+.first{
+    color: rgb(22, 12, 5);
+    background-color: blueviolet;
+    border-radius: 10px;
+    font-style: oblique;
+    font-size: x-large;
+}
+
+.header{
+    text-align: center;
+    margin: 20px;
+    text-decoration: underline;
+    border: 10px solid red;
+    box-shadow: 10px 10px 10px;
+}
+.div{
+       margin: 30px;
+       border: 2px solid black;
+       border-color: rgb(98, 5, 185);
+}
+
+#firstimg{
+    height: 300px ;
+}
+.web{
+    text-decoration: overline;
+}
